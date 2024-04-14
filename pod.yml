@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: edurekapod
+spec:
+  containers:
+  - name: edureka
+    image: edureka-project2
+    ports:
+    - containerPort: 80
