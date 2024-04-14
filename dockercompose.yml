@@ -5,4 +5,4 @@ services:
   web:
     image: satish8380/phpwebapp # Use the official Nginx image from Docker Hub
     ports:
-      - "5000:5000"  # Map host port 8080 to container port 80
+      - "8081:80"  # Map host port 8080 to container port 80
