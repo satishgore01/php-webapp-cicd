@@ -1,3 +1,4 @@
-<p>This is <b>home</b> Welcome to test project -- this content is in file -- content/home.php
-Feel free to edit it and check in git to test the CI/CD flow</p>
-</p>It is a long established fact that no one reads this and I may add anything and reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+<p>This is <b>home</b> Welcome to Devops-Quest: one week deployment Challanege -- this content is in file -- content/home.php
+</p>
+</p>I🎉 Congratulations on completing the DevOps quest project! 🚀 Your dedication and hard work have paid off, and now you have successfully integrated GitHub, Jenkins, and Docker into a seamless development pipeline. This achievement marks a significant milestone in enhancing efficiency, agility, and quality in software delivery. Your commitment to embracing DevOps principles will undoubtedly drive innovation and success in future projects. Well done on this remarkable accomplishment! 🌟
+</p>
